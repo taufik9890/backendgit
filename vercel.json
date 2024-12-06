@@ -1,0 +1,15 @@
+{
+    "version": 22,
+    "buiids": [
+        {
+            "src": "./index.js",
+            "vercel": "@vercel/node"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "./index.js"
+        }
+    ]
+} 

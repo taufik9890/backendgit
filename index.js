@@ -36,6 +36,7 @@ app.listen(8000, ()=>{
 })
 // app.listen hocche amader bujhacche kon port e kaaj korbe. ekhon react er shathe kaj korle react er by default. Kintu gatsby er khetre tokhon abar 3000 er port e run korte hoy
 // js er jekono inbuilt function jante chaile ctrl + space dite hoy. jemon Array.push er moto 
+// environment variables hocche ekta secret file. jemon chatting application er shathe fb jemne connect korsi. oi secret fie onek important. ar emon secret jaygay rakbo jate ami baade keo access pabe na. Eta kaokei deya jay na. emon env file create korbo.
 
 // method jegula use korbo 
 //get
